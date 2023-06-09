@@ -1310,3 +1310,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.09-16.51.23:782][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 2.25 sec)
 [2023.06.09-16.51.23:783][726]AssetCheck: New page: Asset Save: TheranScene
 [2023.06.09-16.51.23:783][726]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/TheranScene.TheranScene
+[2023.06.09-16.54.39:185][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-16.54.39:244][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.06.09-16.54.39:249][  1]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/TheranScene
+[2023.06.09-16.54.39:250][  1]LogSavePackage: Moving '../../../../../../Users/addg9/Desktop/Github Repositories/UnrealLevelDesign-by-The-Bois/Saved/TheranScene900D80CE495B686E2C21B78578F4249D.tmp' to '../../../../../../Users/addg9/Desktop/Github Repositories/UnrealLevelDesign-by-The-Bois/Content/ThirdPerson/Maps/TheranScene.umap'
+[2023.06.09-16.54.39:257][  1]LogFileHelpers: Saving map 'TheranScene' took 0.019
+[2023.06.09-16.54.39:268][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.33 sec)
+[2023.06.09-16.54.39:271][  1]AssetCheck: New page: Asset Save: TheranScene
+[2023.06.09-16.54.39:271][  1]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/TheranScene.TheranScene
+[2023.06.09-16.54.41:561][270]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
