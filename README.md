@@ -1,2 +1,3 @@
 # UnrealLevelDesign-by-The-Bois
-what teh tittle says idio-
+
+Protoype of a Level done with UE5 for the subject LD2 (2023)
